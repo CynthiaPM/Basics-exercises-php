@@ -27,4 +27,5 @@ echo "el doble de M es =".$M*2.."</br>";
 echo "la suma de todas las variables es = ".$X+$Y+$N+$M."</br>";
 
 echo "el producto de todas las variables es = ".$X*$Y*$N*$M;
+
 ?>
