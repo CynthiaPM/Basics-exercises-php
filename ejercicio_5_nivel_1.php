@@ -9,6 +9,8 @@ $final = array_merge($num1,$num2);
 echo "<pre>";
 var_dump($final);
 
+echo "el tamaño del array es: ".count($final)."</br>";
+
 foreach ($final as $nuevo_array) {
     echo $nuevo_array. "</br>";
 }
